@@ -6,13 +6,24 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "shadow",
+			"dialog" : "Maria...",
+			"newSpeaker" : "true"
+		},
+		{
 			"speaker" : "quince",
 			"dialog" : "Pat, pat. And here's a marvels convenient place for our rehearsal.",
 			"newSpeaker": "true"
 		},
+		{
+			"speaker": "snout",
+			"dialog": "i missed my FREAKING cue DUDE!!!!!",
+			"newSpeaker" : "true"
+		},
 		{	
 			"speaker" : "quince",
-			"dialog" : "This green plot shall be our stage, this hawthorn brake our tiring-house, and we will do it in action as we will do it before the Duke."
+			"dialog" : "This green plot shall be our stage, this hawthorn brake our tiring-house, and we will do it in action as we will do it before the Duke.",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "bottom",

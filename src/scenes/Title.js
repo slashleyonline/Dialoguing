@@ -19,6 +19,7 @@ class Title extends Phaser.Scene {
         this.load.image('theseus', 'img/theseus.png')
         this.load.image('lysander', 'img/lysander.png')
         this.load.image('philostrate', 'img/philostrate.png')
+        this.load.image('shadow', 'img/shadow.png')
 
         // load bitmap font
         this.load.bitmapFont('gem_font', 'font/gem.png', 'font/gem.xml')
