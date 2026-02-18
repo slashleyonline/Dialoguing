@@ -22,12 +22,13 @@ class Title extends Phaser.Scene {
 
         // load bitmap font
         this.load.bitmapFont('gem_font', 'font/gem.png', 'font/gem.xml')
+        this.load.bitmapFont('y2k_font', 'font/Y2KNeophyte.png', 'font/Y2KNeophyte.xml')
     }
 
     create() {
         // add title text
-        this.add.bitmapText(centerX, centerY - 32, 'gem_font', 'A MIDSUMMER NIGHT\'S DREAM', 32).setOrigin(0.5)
-        this.add.bitmapText(centerX, centerY + 16, 'gem_font', 'Press SPACE to start', 24).setOrigin(0.5)
+        this.add.bitmapText(centerX, centerY - 32, 'y2k_font', 'A MIDSUMMER NIGHT\'S DREAM', 32).setOrigin(0.5)
+        this.add.bitmapText(centerX, centerY + 16, 'y2k_font', 'Press SPACE to start', 24).setOrigin(0.5)
 
         // create input
         cursors = this.input.keyboard.createCursorKeys()
