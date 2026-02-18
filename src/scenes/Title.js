@@ -27,8 +27,8 @@ class Title extends Phaser.Scene {
 
     create() {
         // add title text
-        this.add.bitmapText(centerX, centerY - 32, 'y2k_font', 'A MIDSUMMER NIGHT\'S DREAM', 32).setOrigin(0.5)
-        this.add.bitmapText(centerX, centerY + 16, 'y2k_font', 'Press SPACE to start', 24).setOrigin(0.5)
+        this.add.bitmapText(centerX, centerY - 32, 'y2k_font', 'A MIDSUMMER NIGHT\'S DREAM', 48).setOrigin(0.5)
+        this.add.bitmapText(centerX, centerY + 16, 'y2k_font', 'Press SPACE to start', 32).setOrigin(0.5)
 
         // create input
         cursors = this.input.keyboard.createCursorKeys()
