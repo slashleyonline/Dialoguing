@@ -1,0 +1,93 @@
+[
+	[
+		{
+			"speaker" : "bottom",
+			"dialog" : "Are we all met?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "quince",
+			"dialog" : "Pat, pat. And here's a marvels convenient place for our rehearsal.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "quince",
+			"dialog" : "This green plot shall be our stage, this hawthorn brake our tiring-house, and we will do it in action as we will do it before the Duke."
+		},
+		{	
+			"speaker" : "bottom",
+			"dialog" : "Peter Quince?",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "quince",
+			"dialog" : "What sayest thou, bully Bottom?",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "bottom",
+			"dialog" : "There are things in this comedy of Pyramus and Thisbe that will never please. First, Pyramus must draw a sword to kill himself, which the ladies cannot abide. How answer you that?",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "snout",
+			"dialog" : "By 'r lakin, a parlous fear.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "starveling",
+			"dialog" : "I believe we must leave the killing out, when all is done.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "bottom",
+			"dialog" : "Not a whit! I have a device to make all well. Write me a prologue, and let the prologue seem to say we will do no harm with our swords and that Pyramus is not killed indeed.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "bottom",
+			"dialog" : "And, for the more better assurance, tell them that I, Pyramus, am not Pyramus, but Bottom the weaver. This will put them out of fear."
+		}
+
+	],
+	[
+		{
+			"speaker" : "theseus",
+			"dialog" : "Here comes the lovers full of joy and mirth.—-\nJoy, gentle friends! Joy and fresh days of love\nAccompany your hearts!",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "lysander",
+			"dialog" : "More than to us\nWait in your royal walks, your board, your bed!",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "theseus",
+			"dialog" : "Come now, what masques, what dances shall we have\nTo wear away this long age of three hours\nBetween our after-supper and bedtime?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "theseus",
+			"dialog" : "Where is our usual manager of mirth?\nWhat revels are in hand? Is there no play\nTo ease the anguish of a torturing hour?"
+		},
+		{	
+			"speaker" : "theseus",
+			"dialog" : "Call Philostrate."
+		},
+		{	
+			"speaker" : "philostrate",
+			"dialog" : "Here, mighty Theseus.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "theseus",
+			"dialog" : "Say what abridgment have you for this evening,\nWhat masque, what music? How shall we beguile\nThe lazy time if not with some delight?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "philostrate",
+			"dialog" : "There is a brief how many sports are ripe.\nMake choice of which your Highness will see first.",
+			"newSpeaker" : "true"
+		}
+	]
+]
